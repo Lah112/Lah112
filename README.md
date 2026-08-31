@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Lahiru Chamara**
 
-### `Software Engineering Undergraduate` • `Full-Stack Developer` • `AI/ML Enthusiast`
+### `Software Engineer` • `Full-Stack Developer` • `AI/ML Enthusiast`
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Software+Engineering+Undergraduate;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Computer+Vision+%7C+NLP+%7C+Generative+AI;Building+Real-World+Software+Solutions" alt="Typing SVG" />
 
