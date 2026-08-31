@@ -1,191 +1,214 @@
-# 👋 Hi, I'm Lahiru Chamara
+<!-- ===================== HERO ===================== -->
 
-### 🎓 Software Engineer | 💻 Full-Stack Developer | 🤖 AI/ML Enthusiast
+<div align="center">
 
-I’m a Software Engineering undergraduate passionate about building **real-world software solutions**, exploring **Artificial Intelligence & Machine Learning**, and developing **full-stack applications**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=Lahiru%20Chamara&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%20%26%20Machine%20Learning%20%7C%20Full-Stack%20Development&descAlignY=58&descSize=18" width="100%"/>
 
-I enjoy turning ideas into practical applications using modern technologies and continuously learning new tools and frameworks.
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lah112&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Engineering+Undergraduate;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Computer+Vision+%7C+NLP+%7C+Generative+AI;Building+Ideas+Into+Real-World+Solutions" />
+
+<br/><br/>
+
+<a href="https://github.com/Lah112">
+<img src="https://komarev.com/ghpvc/?username=Lah112&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge" />
+</a>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+> **Software Engineering undergraduate focused on building intelligent, scalable and user-centered software solutions.**
+
+I'm passionate about combining **software engineering with artificial intelligence** to solve practical problems. My interests span from full-stack web and mobile development to machine learning, computer vision and generative AI.
+
+* 🎓 BSc (Hons) in Information Technology — Software Engineering
+* 💻 Full-Stack Web & Mobile Development
+* 🤖 Artificial Intelligence & Machine Learning
+* 👁️ Computer Vision & Natural Language Processing
+* ☁️ Cloud Computing & DevOps
+* 🔐 Secure Software Engineering
+* 🔬 Researching **Real-Time Sinhala Sign Language Recognition**
+* 🚀 Constantly learning, building and experimenting
+
+---
+
+## ⚡ Technology Stack
+
+### Languages
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,php" />
+
+</p>
+
+### Frontend & Backend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,html,css" />
+
+</p>
+
+### Databases
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+</p>
+
+### AI / Machine Learning
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
+
+</p>
+
+**Focus Areas**
+
+`Machine Learning` · `Deep Learning` · `Computer Vision` · `NLP` · `Generative AI` · `Data Analysis`
+
+### Tools & Platforms
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma" />
+
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 Featured Projects
 
-* 🎓 BSc (Hons) in Information Technology – Software Engineering
-* 💻 Interested in **Software Engineering, AI/ML & Full-Stack Development**
-* 🤖 Exploring **Machine Learning, NLP, Computer Vision & Generative AI**
-* 🌐 Experienced with **MERN Stack & Java Spring Boot**
-* 📱 Interested in **Mobile Application Development**
-* ☁️ Exploring **Cloud, DevOps & Distributed Systems**
-* 🔬 Currently working on **Real-Time Sinhala Sign Language Recognition & Speech Output**
-* 🧠 Always learning and experimenting with new technologies
-
----
-
-## 🛠️ Languages & Technologies
-
-### 👨‍💻 Programming Languages
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45"/>
-</p>
-
-### 🌐 Web & Backend
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45"/>
-</p>
-
-### 🗄️ Databases
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/>
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="45" height="45"/>
-</p>
-
-**Areas:** Machine Learning • Deep Learning • NLP • Computer Vision • Generative AI • Data Analysis
-
-### ⚙️ Tools & Platforms
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45"/>
-</p>
-
----
-
-## 💡 Featured Projects
+<div align="center">
 
 ### 🤟 Real-Time Sinhala Sign Language Recognition
 
-An AI-powered system designed to recognize **Sinhala Sign Language** in real time and convert recognized signs into speech.
+AI-powered computer vision system designed to recognize **Sinhala Sign Language in real time** and convert recognized signs into speech.
 
-**Technologies:** Python • OpenCV • MediaPipe • Machine Learning • Computer Vision
+`Python` `OpenCV` `MediaPipe` `Machine Learning` `Computer Vision`
 
 ---
 
 ### 🧠 Smart Resume Analyzer
 
-An AI/ML-based application that analyzes resumes and provides intelligent insights based on job requirements.
+AI-powered resume analysis platform designed to analyze resumes against job requirements and provide intelligent insights.
 
-**Technologies:** Python • AI/ML • NLP • Web Technologies
+`Python` `AI/ML` `NLP` `Machine Learning`
 
 ---
 
-### 📚 Wisdom Square Knowledge Base
+### 📚 Wisdom Square
 
-A knowledge management platform designed to organize and access information efficiently.
+Knowledge-base platform designed to organize, manage and access information efficiently.
 
-**Technologies:** MongoDB • Express.js • React • Node.js
+`MongoDB` `Express.js` `React` `Node.js`
 
 ---
 
 ### 🌱 TerraQuest
 
-A mobile application developed around **UN Sustainable Development Goal 15 – Life on Land**, featuring interactive environmental experiences and gamification.
+Mobile application inspired by **UN Sustainable Development Goal 15 — Life on Land**, combining environmental awareness with interactive and gamified experiences.
 
-**Technologies:** React Native • Expo • JavaScript
+`React Native` `Expo` `JavaScript`
 
 ---
 
 ### 🏦 AI Bank Customer Churn Prediction
 
-A machine learning application for predicting customer churn and explaining model predictions using explainable AI techniques.
+Machine learning application for predicting customer churn while providing model interpretability using explainable AI techniques.
 
-**Technologies:** Python • Machine Learning • Streamlit • SHAP
+`Python` `Scikit-Learn` `Streamlit` `SHAP`
 
----
-
-## 🔬 Currently Exploring
-
-```text
-🤖 Artificial Intelligence & Machine Learning
-👁️ Computer Vision
-🗣️ Natural Language Processing
-☁️ Cloud Computing
-🐳 Docker & DevOps
-🌐 Distributed Systems
-📱 Mobile Application Development
-🔐 Secure Software Engineering
-```
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 🔬 Currently Exploring
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lah112&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lah112&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</p>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-0F172A?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-0F172A?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-0F172A?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-0F172A?style=for-the-badge&logo=google&logoColor=white"/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lah112&theme=radical&hide_border=false" alt="GitHub Streak"/>
-</p>
+<br/>
 
----
+<img src="https://img.shields.io/badge/Cloud%20Computing-0F172A?style=for-the-badge&logo=icloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/DevOps-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Distributed%20Systems-0F172A?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Secure%20Software-0F172A?style=for-the-badge&logo=owasp&logoColor=white"/>
 
-## 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lah112&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</p>
+</div>
 
 ---
 
-## 🐍 Contribution Snake
+# 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg" alt="Contribution Snake"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Lah112&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lah112&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=94A3B8" height="170"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Lah112&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" width="70%"/>
+
+</div>
 
 ---
 
-## 🤝 Connect With Me
+# 🏆 Achievements
 
-<p align="left">
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Lah112&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" width="90%"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg" width="90%" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
 
 <a href="https://github.com/Lah112">
-<img src="https://img.shields.io/badge/GitHub-Lah112-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
-</p>
+</div>
 
----
+<br/>
 
-## 💬 Let's Build Something Great!
+<div align="center">
 
-> *“Building software, exploring AI, and learning something new every day.”* 🚀
+### Let's build something meaningful with technology.
 
-⭐ Feel free to explore my repositories and follow my journey!
+`Code` · `AI` · `Research` · `Innovation`
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1e293b,100:0f172a&height=120&section=footer"/>
+
+</div>
