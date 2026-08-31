@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lahiru Chamara
 
-### 🎓 Software Engineering Undergraduate | 💻 Full-Stack Developer | 🤖 AI/ML Enthusiast
+### 🎓 Software Engineer | 💻 Full-Stack Developer | 🤖 AI/ML Enthusiast
 
 I’m a Software Engineering undergraduate passionate about building **real-world software solutions**, exploring **Artificial Intelligence & Machine Learning**, and developing **full-stack applications**.
 
