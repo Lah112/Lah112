@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineering undergraduate** passionate about building practical software solutions and exploring the intersection of **Software Engineering, Artificial Intelligence and Machine Learning**.
+I'm a **Software Engineer** passionate about building practical software solutions and exploring the intersection of **Software Engineering, Artificial Intelligence and Machine Learning**.
 
 I enjoy transforming ideas into real-world applications while continuously learning modern technologies and development practices.
 
